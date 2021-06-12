@@ -40,6 +40,6 @@ const addCarrito = e =>{
     //console.log(e.target)
     console.log(e.target.classList.contains('btn-primary'))
     //if(e.target.classList.contains('btn-primary')){
-
+        
     }
 }
