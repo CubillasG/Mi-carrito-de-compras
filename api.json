@@ -3,25 +3,25 @@
       "precio": 6500,
       "id": 1,
       "title": "VOLCOM BRAND JEANS",
-      "thumbnailUrl": "img/pro1.png"
+      "imagen": "img/pro1.png"
     },
     {
       "precio": 300,
       "id": 2,
       "title": "REMERA KIDS YEAH VOLCOM",
-      "thumbnailUrl": "img/pro2.png"
+      "imagen": "img/pro2.png"
     },
     {
       "precio": 100,
       "id": 3,
       "title": "TOGETHER THERE IS MORE OF US",
-      "thumbnailUrl": "pro3.png"
+      "imagen": "img/pro3.png"
     },
     {
       "precio": 50,
       "id": 4,
       "title": "SHIRT LS CADEN",
-      "thumbnailUrl": "pro4.png"
+      "imagen": "img/pro4.png"
     }
   
   ]
